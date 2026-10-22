@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Junaid Weds Khusnuma - Wedding Invitation</title>
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div>
+        <!-- Cover Page -->
+        <section>
+            <div>
+                <img alt="Envelope Cover" src="images/front_page.jpeg">
+                <div>
+                    <div>
+                        <div>
+                            <span>
+                                <span>J &amp; K</span>
+                            </span>
+                        </div>
+                    </div>
+                    <span>✦ Tap Seal to Open ✦</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Couple Page -->
+        <section>
+            <div>
+                <img alt="Couple Background" src="images/second_page.jpeg">
+                <div>
+                    <div>
+                        <p>THE AUSPICIOUS NIKAAH OF</p>
+                        <br>
+                        <h1>Khusnuma</h1>
+                        <p>Daughter of <strong>Haji Inam Qureshi</strong></p>
+                        <div>
+                            <span></span>
+                            <span>weds</span>
+                            <span></span>
+                        </div>
+                        <h1>Junaid</h1>
+                        <p>Son of <strong>Mohd Idreesh Qureshi</strong></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Details Page -->
+        <section>
+            <div>
+                <img alt="Details Background" src="images/final_page.jpeg">
+                <div>
+
+                    <div>
+                        <p>
+                            <strong>Junaid Qureshi</strong>
+                            <span>Son of Mohd Idreesh Qureshi</span>
+                        </p>
+                        <p>
+                            <strong>Khusnuma</strong>
+                            <span>Daughter of Haji Inam Qureshi</span>
+                        </p>
+                    </div>
+                    
+                    <div>
+                        <h2>Wedding Program &amp; Events</h2>
+                        <div>
+                            <div>
+                                <span>24 November (Tuesday) | 6:00 PM</span>
+                                <span>Barat Arrival</span>
+                            </div>
+                            <div>
+                                <span>26 November (Thursday) | 1:00 PM</span>
+                                <span>Walima (Dupher)</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <p>VENUE</p>
+                        <h3>Hotel Red Cherry, Eidgah Road, Loni, Ghaziabad</h3>
+                        <a href="https://maps.google.com/?q=Hotel+Red+Cherry+Eidgah+Road+Loni+Ghaziabad" rel="noopener noreferrer" target="_blank">
+                            ✦ Tap to open location in Google Maps ✦
+                        </a>
+                    </div>
+
+                    <div>
+                        <p>FOR ANY QUERIES / RSVP, PLEASE CONTACT</p>
+                        <div>
+                            <a href="tel:7078737249">+91 7078737249 (Junaid)</a>
+                            <a href="tel:8273103732">+91 8273103732 (Zaid)</a>
+                        </div>
+                    </div>
+
+                    <div>
+                        <p>✦ KHANDAAN ✦</p>
+                        <div>
+                            <ul>
+                                <li>Late Islam Qureshi (Ratupura)</li>
+                                <li>Bhura Qureshi (Ratupura)</li>
+                                <li>Ayub Qureshi (Ratupura)</li>
+                                <li>Irfan Qureshi (Ratupura)</li>
+                                <li>Zaid Qureshi</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div>
+                        <p>✦ RISHTEDAR ✦</p>
+                        <div>
+                            <ul>
+                                <li>Late Mehboob Qureshi (Atseni)</li>
+                                <li>Khalil Qureshi (Atseni)</li>
+                                <li>Maqshood Qureshi (Bugrasi)</li>
+                                <li>Late Jafar Qureshi (Muradnagar)</li>
+                                <li>Late Liyaqat Qureshi (Loni)</li>
+                                <li>Sehzaad Qureshi (Loni)</li>
+                                <li>Sehzaad Qureshi (Muradnagar)</li>
+                                <li>Salman Qureshi (Meerut)</li>
+                                <li>Late Gulab Pradhan (Dholdi)</li>
+                                <li>Naeem Remu (Dholdi)</li>
+                                <li>Haji Saleem Remu (Dholdi)</li>
+                                <li>Haji Maqsood (Dholdi)</li>
+                                <li>Haji Jamil (Dholdi)</li>
+                            </ul>
+                        </div>
+                        <p>Relatives and Friends</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+</body>
+</html>
